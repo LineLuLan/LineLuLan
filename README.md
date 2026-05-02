@@ -38,7 +38,7 @@
 <div align="center">
 
 **`[ CORE / ML / DATA ]`**<br>
-[![Core Stack](https://skillicons.dev/icons?i=python,r,tensorflow,sklearn,pandas,mysql&theme=dark)](https://skillicons.dev)
+[![Core Stack](https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,sklearn,mysql&theme=dark)](https://skillicons.dev)
 
 **`[ ARCHITECTURE / TOOLS ]`**<br>
 [![Tooling Stack](https://skillicons.dev/icons?i=vscode,bash,git,github,docker,gcp&theme=dark)](https://skillicons.dev)
