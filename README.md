@@ -61,29 +61,29 @@
 
 ### `terminal@stellaris:~/$ fetch active_missions --verbose`
 
-> **`MISSION_01 :: Panic Hub`**
-> *Class:* Agentic Simulation & Analysis
-> *Objective:* Engineering simulation-based agent ecosystems. Building post-mortem evaluators that parse causal chain logs and leader-psychology matrices.
+> **`MISSION_01 :: Panic Hub`**<br>
+> *Class:* Agentic Simulation & Analysis<br>
+> *Objective:* Engineering simulation-based agent ecosystems. Building post-mortem evaluators that parse causal chain logs and leader-psychology matrices.<br>
 > *State:* `running · telemetry nominal`
 
-> **`MISSION_02 :: [CLASSIFIED]`**
-> *Class:* Autonomous Analytics Replacement
-> *Objective:* Dissolving manual reporting cadences into self-running pipelines that brief themselves.
+> **`MISSION_02 :: [CLASSIFIED]`**<br>
+> *Class:* Autonomous Analytics Replacement<br>
+> *Objective:* Dissolving manual reporting cadences into self-running pipelines that brief themselves.<br>
 > *State:* `compiling · access restricted`
 
-> **`MISSION_03 :: [PENDING]`**
-> *Class:* Observability Fabric
-> *Objective:* A live dashboard layer where every metric is an oracle and every chart is a question already answered.
+> **`MISSION_03 :: [PENDING]`**<br>
+> *Class:* Observability Fabric<br>
+> *Objective:* A live dashboard layer where every metric is an oracle and every chart is a question already answered.<br>
 > *State:* `awaiting cosmic alignment`
 
-> **`MISSION_04 :: [INCUBATING]`**
-> *Class:* AI Agent Orchestration
-> *Objective:* Coordinating tool-using agents with memory, planning, and quiet refusal — so destiny can be delegated.
+> **`MISSION_04 :: [INCUBATING]`**<br>
+> *Class:* AI Agent Orchestration<br>
+> *Objective:* Coordinating tool-using agents with memory, planning, and quiet refusal — so destiny can be delegated.<br>
 > *State:* `seedling · do not disturb`
 
-> **`MISSION_05 :: [SEALED]`**
-> *Class:* `???`
-> *Objective:* `// awaiting fate's instruction`
+> **`MISSION_05 :: [SEALED]`**<br>
+> *Class:* `???`<br>
+> *Objective:* `// awaiting fate's instruction`<br>
 > *State:* `dormant · will wake when called`
 
 <br>
