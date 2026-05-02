@@ -19,7 +19,7 @@
 
 </div>
 
-### `terminal@stellaris:~/$ whoami`
+## ◇ identity
 
 ```yaml
 [ SYSTEM LOG INITIALIZED ]
@@ -33,7 +33,7 @@
 
 <br>
 
-### `terminal@stellaris:~/$ execute stack_scan.sh`
+## ◇ arsenal
 
 <div align="center">
 
@@ -47,7 +47,7 @@
 
 <br>
 
-### `terminal@stellaris:~/$ analyze system_metrics`
+## ◇ telemetry
 
 <div align="center">
 
@@ -59,7 +59,7 @@
 
 <br>
 
-### `terminal@stellaris:~/$ fetch active_missions --verbose`
+## ◇ active_missions
 
 > **`MISSION_01 :: Panic Hub`**<br>
 > *Class:* Agentic Simulation & Analysis<br>
@@ -88,7 +88,7 @@
 
 <br>
 
-### `terminal@stellaris:~/$ query current_focus.json`
+## ◇ prophecy
 
 ```json
 {
