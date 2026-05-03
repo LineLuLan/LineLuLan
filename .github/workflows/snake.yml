@@ -1,0 +1,46 @@
+name: Generate Commit Serpent
+
+on:
+  schedule:
+    # Every 24 hours, midnight UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+concurrency:
+  group: snake-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    name: Generate snake SVG
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate snake animation (Kafka neon palette)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # Outputs in `dist/` are pushed to the `output` branch by the next step.
+          # The dark variant uses a custom palette tuned to match the README:
+          #   snake     → #ff4ecd (neon hot pink)
+          #   dot empty → #1a0d2e (deep midnight)
+          #   dot 1..4  → #3a1f41 → #7d2554 → #a855f7 → #ff4ecd
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ff4ecd&color_dots=#1a0d2e,#3a1f41,#7d2554,#a855f7,#ff4ecd
+
+      - name: Push generated SVGs to the `output` branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "chore(snake): regenerate commit-serpent SVG"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

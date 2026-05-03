@@ -15,7 +15,7 @@
 <br>
 <br>
 
-## ◇ identity_log
+<h3 align="center">✦ ＳＹＳＴＥＭ ／ ＩＤＥＮＴＩＴＹ ✦</h3>
 
 ```yaml
 [ SYSTEM LOG INITIALIZED ]
@@ -31,7 +31,7 @@
 <br>
 <br>
 
-## ◇ arsenal
+<h3 align="center">[ ／／ A R S E N A L _ S T A C K ／／ ]</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-1a0d2e?style=for-the-badge&amp;logo=python&amp;logoColor=ff4ecd" alt="Python" />
@@ -46,7 +46,7 @@
 <br>
 <br>
 
-## ◇ active_quests
+<h3 align="center">✦ ＡＣＴＩＶＥ ／ ＱＵＥＳＴＳ ✦</h3>
 
 > **`QUEST_01 :: Panic Hub`** — *🔭 Causal Chain Simulator*<br>
 > *Class:* Agentic Simulation & Trust Telemetry<br>
@@ -66,7 +66,7 @@
 <br>
 <br>
 
-## ◇ telemetry
+<h3 align="center">[ ／／ T E L E M E T R Y _ F E E D ／／ ]</h3>
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=LineLuLan&amp;show_icons=true&amp;hide_border=true&amp;theme=tokyonight&amp;bg_color=0d0820&amp;title_color=ff4ecd&amp;text_color=cbb8e6&amp;icon_color=a855f7" alt="GitHub Stats" />
@@ -79,7 +79,7 @@
 <br>
 <br>
 
-## ◇ prophecy
+<h3 align="center">✦ ＰＲＯＰＨＥＣＹ ／ ＦＯＲＥＣＡＳＴ ✦</h3>
 
 ```json
 {
@@ -90,6 +90,15 @@
   "uncertainty_index": 0.07
 }
 ```
+
+<br>
+<br>
+
+<h3 align="center">[ ／／ C O M M I T _ S E R P E N T ／／ ]</h3>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LineLuLan/LineLuLan/output/github-contribution-grid-snake-dark.svg" alt="Commit Snake slithering through the contribution graph" />
+</div>
 
 <br>
 <br>
