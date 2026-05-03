@@ -69,11 +69,18 @@
 <h3 align="center">[ ／／ T E L E M E T R Y _ F E E D ／／ ]</h3>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LineLuLan&amp;show_icons=true&amp;hide_border=true&amp;theme=tokyonight&amp;bg_color=0d0820&amp;title_color=ff4ecd&amp;text_color=cbb8e6&amp;icon_color=a855f7" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="165" src="https://streak-stats.demolab.com?user=LineLuLan&amp;hide_border=true&amp;background=0d0820&amp;ring=ff4ecd&amp;fire=ff6b9d&amp;currStreakLabel=ff4ecd&amp;sideNums=cbb8e6&amp;sideLabels=cbb8e6&amp;dates=8a7aa8&amp;currStreakNum=ff6b9d&amp;stroke=a855f7" alt="GitHub Streak" />
-  &nbsp;&nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LineLuLan&amp;layout=compact&amp;hide_border=true&amp;theme=tokyonight&amp;bg_color=0d0820&amp;title_color=ff4ecd&amp;text_color=cbb8e6" alt="Top Languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=LineLuLan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="150" src="https://streak-stats.demolab.com?user=LineLuLan&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LineLuLan&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+</div>
+
+<br>
+<br>
+
+<h3 align="center">✦ ＴＲＯＰＨＹ ／ ＣＡＢＩＮＥＴ ✦</h3>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LineLuLan&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </div>
 
 <br>
@@ -98,6 +105,26 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/LineLuLan/LineLuLan/output/github-contribution-grid-snake-dark.svg" alt="Commit Snake slithering through the contribution graph" />
+</div>
+
+<br>
+<br>
+
+<h3 align="center">[ ／／ C O N N E C T _ P R O T O C O L ／／ ]</h3>
+
+<div align="center">
+  <a href="mailto:tnanh.gdsciu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-1a0d2e?style=for-the-badge&amp;logo=gmail&amp;logoColor=ff6b9d" alt="Email" />
+  </a>
+  <a href="https://github.com/LineLuLan">
+    <img src="https://img.shields.io/badge/GitHub-1a0d2e?style=for-the-badge&amp;logo=github&amp;logoColor=f5d6e8" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE">
+    <img src="https://img.shields.io/badge/LinkedIn-1a0d2e?style=for-the-badge&amp;logo=linkedin&amp;logoColor=a855f7" alt="LinkedIn" />
+  </a>
+  <a href="https://gdgoc.hcmiu.edu.vn">
+    <img src="https://img.shields.io/badge/GDGoC%20HCMIU-1a0d2e?style=for-the-badge&amp;logo=google&amp;logoColor=ff4ecd" alt="GDGoC HCMIU" />
+  </a>
 </div>
 
 <br>
