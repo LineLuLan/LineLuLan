@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/LineLuLan/LineLuLan/main/shooting_stars_banner.svg" width="100%" alt="midnight cyberpunk shooting-stars banner">
 
 <!-- ========== AVATAR (animated) ========== -->
-<img src="https://media1.tenor.com/m/Zf26rNn-4yYAAAAd/kafka-kuru-kuru-kurukuru.gif" width="150" style="border-radius: 50%;" alt="Kafka Kuru Kuru" />
+<img src="https://tenor.com/view/卡芙卡-kafka-kuru-kuru-kurukuru-崩壞星穹鐵道-gif-13706173559325000122" width="150" style="border-radius: 50%;" alt="Kafka Kuru Kuru" />
 
 # *— a quiet terminal under a neon sky —*
 
