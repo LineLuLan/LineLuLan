@@ -105,15 +105,32 @@
 
 <h3 align="center">✦ ＰＲＯＰＨＥＣＹ ／ ＦＯＲＥＣＡＳＴ ✦</h3>
 
-```json
-{
-  "prediction_engine": "Active",
-  "current_focus": "Differentiable Agent-Based Models · agentic data workflows · aesthetic UI",
-  "next_cycle": "Manual analytics will collapse into autonomous loops — and the UI will whisper in pastel.",
-  "cosmic_quote": "The thread of fate is just data waiting to be parsed.",
-  "uncertainty_index": 0.07
-}
-```
+<div align="center">
+
+<table>
+  <tr>
+    <td>◆ <b>ENGINE</b></td>
+    <td><code>::</code></td>
+    <td><code>Active</code> &nbsp;<code>[ uncertainty · 0.07 ]</code></td>
+  </tr>
+  <tr>
+    <td>◆ <b>FOCUS</b></td>
+    <td><code>::</code></td>
+    <td><code>DABM</code> &nbsp;·&nbsp; <code>Agentic Workflows</code> &nbsp;·&nbsp; <code>Aesthetic UI</code></td>
+  </tr>
+  <tr>
+    <td>◆ <b>FORECAST</b></td>
+    <td><code>::</code></td>
+    <td><i>Manual analytics will collapse into autonomous loops — and the UI will whisper in pastel.</i></td>
+  </tr>
+  <tr>
+    <td>◆ <b>ECHO</b></td>
+    <td><code>::</code></td>
+    <td><i>"The thread of fate is just data waiting to be parsed."</i></td>
+  </tr>
+</table>
+
+</div>
 
 <br>
 <br>
