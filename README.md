@@ -3,8 +3,8 @@
 <!-- ========== ANIMATED PIXEL-ART BANNER ========== -->
 <img src="https://raw.githubusercontent.com/LineLuLan/LineLuLan/main/shooting_stars_banner.svg" width="100%" alt="midnight cyberpunk shooting-stars banner">
 
-<!-- ========== AVATAR ========== -->
-<img src="https://raw.githubusercontent.com/LineLuLan/LineLuLan/main/assets/kafka.png" width="150" style="border-radius: 16px;" alt="Kafka pixel-art avatar">
+<!-- ========== AVATAR (animated) ========== -->
+<img src="https://media1.tenor.com/m/Zf26rNn-4yYAAAAd/kafka-kuru-kuru-kurukuru.gif" width="150" style="border-radius: 50%;" alt="Kafka Kuru Kuru" />
 
 # *— a quiet terminal under a neon sky —*
 
@@ -17,16 +17,31 @@
 
 <h3 align="center">✦ ＳＹＳＴＥＭ ／ ＩＤＥＮＴＩＴＹ ✦</h3>
 
-```yaml
-[ SYSTEM LOG INITIALIZED ]
-> entity_id    : Trần Nam Anh
-> designation  : Teaching Assistant // AI / ML Researcher
-> affiliation  : GDGoC HCMIU — Deputy Head
-> research     : Agentic Data Workflows · DABM (Differentiable Agent-Based Modeling) · Complex Simulations
-> directive    : Compile destiny from causal chains · render UI like poetry
-> status       : Online · Observing · Optimizing
-[ END LOG ]
-```
+<div align="center">
+
+<table>
+  <tr>
+    <td>◆ <b>ENTITY_ID</b></td>
+    <td><code>::</code></td>
+    <td><code>Trần Nam Anh</code> &nbsp;<code>[ ITDSIU23030 ]</code></td>
+  </tr>
+  <tr>
+    <td>◆ <b>CLASS</b></td>
+    <td><code>::</code></td>
+    <td><code>AI / ML Researcher</code> &nbsp;×&nbsp; <code>Teaching Assistant</code></td>
+  </tr>
+  <tr>
+    <td>◆ <b>GUILD</b></td>
+    <td><code>::</code></td>
+    <td><code>Deputy Head</code> @ <b>GDGoC HCMIU</b> &nbsp;|&nbsp; <code>Lead</code> @ <b>100B Studio</b></td>
+  </tr>
+</table>
+
+</div>
+
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1000&color=E07B97&background=00000000&vCenter=true&lines=Compiling+destiny+from+causal+chains...;Agentic+Data+Workflows+active...;Rendering+UI+like+poetry...;Status:+Online+.+Observing+.+Optimizing" alt="Current Directive — typing animation" />
+</div>
 
 <br>
 <br>
