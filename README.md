@@ -13,6 +13,7 @@
 > 💬 **`[ System ]`** :: A wandering star compiled into your timeline. You've reached the lofi mainframe of **Trần Nam Anh** — *Teaching Assistant* by daylight, *Deputy Head of GDGoC HCMIU* by twilight, *AI / ML Researcher* when the constellations align. *Press any key to continue…*
 
 <br>
+<br>
 
 ## ◇ identity_log
 
@@ -28,21 +29,21 @@
 ```
 
 <br>
+<br>
 
 ## ◇ arsenal
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-1a0d2e?style=for-the-badge&logo=python&logoColor=ff4ecd)
-![PyTorch](https://img.shields.io/badge/PyTorch-1a0d2e?style=for-the-badge&logo=pytorch&logoColor=ff6b9d)
-![Next.js](https://img.shields.io/badge/Next.js-1a0d2e?style=for-the-badge&logo=nextdotjs&logoColor=f5d6e8)
-![Tailwind](https://img.shields.io/badge/Tailwind-1a0d2e?style=for-the-badge&logo=tailwindcss&logoColor=a855f7)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-1a0d2e?style=for-the-badge&logo=framer&logoColor=ff4ecd)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-1a0d2e?style=for-the-badge&logo=anthropic&logoColor=ff6b9d)
-![GitHub](https://img.shields.io/badge/GitHub-1a0d2e?style=for-the-badge&logo=github&logoColor=f5d6e8)
-
+  <img src="https://img.shields.io/badge/Python-1a0d2e?style=for-the-badge&amp;logo=python&amp;logoColor=ff4ecd" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-1a0d2e?style=for-the-badge&amp;logo=pytorch&amp;logoColor=ff6b9d" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Next.js-1a0d2e?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=f5d6e8" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind-1a0d2e?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=a855f7" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-1a0d2e?style=for-the-badge&amp;logo=framer&amp;logoColor=ff4ecd" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/Claude%20Code-1a0d2e?style=for-the-badge&amp;logo=anthropic&amp;logoColor=ff6b9d" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/GitHub-1a0d2e?style=for-the-badge&amp;logo=github&amp;logoColor=f5d6e8" alt="GitHub" />
 </div>
 
+<br>
 <br>
 
 ## ◇ active_quests
@@ -63,19 +64,19 @@
 > *State:* `polishing · in soft focus`
 
 <br>
+<br>
 
 ## ◇ telemetry
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=LineLuLan&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d0820&title_color=ff4ecd&text_color=cbb8e6&icon_color=a855f7" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LineLuLan&hide_border=true&background=0d0820&ring=ff4ecd&fire=ff6b9d&currStreakLabel=ff4ecd&sideNums=cbb8e6&sideLabels=cbb8e6&dates=8a7aa8&currStreakNum=ff6b9d&stroke=a855f7" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LineLuLan&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d0820&title_color=ff4ecd&text_color=cbb8e6" alt="Top Languages" />
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LineLuLan&amp;show_icons=true&amp;hide_border=true&amp;theme=tokyonight&amp;bg_color=0d0820&amp;title_color=ff4ecd&amp;text_color=cbb8e6&amp;icon_color=a855f7" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="165" src="https://streak-stats.demolab.com?user=LineLuLan&amp;hide_border=true&amp;background=0d0820&amp;ring=ff4ecd&amp;fire=ff6b9d&amp;currStreakLabel=ff4ecd&amp;sideNums=cbb8e6&amp;sideLabels=cbb8e6&amp;dates=8a7aa8&amp;currStreakNum=ff6b9d&amp;stroke=a855f7" alt="GitHub Streak" />
+  &nbsp;&nbsp;
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LineLuLan&amp;layout=compact&amp;hide_border=true&amp;theme=tokyonight&amp;bg_color=0d0820&amp;title_color=ff4ecd&amp;text_color=cbb8e6" alt="Top Languages" />
 </div>
 
+<br>
 <br>
 
 ## ◇ prophecy
@@ -90,6 +91,7 @@
 }
 ```
 
+<br>
 <br>
 
 <div align="center">
