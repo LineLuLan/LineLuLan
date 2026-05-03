@@ -146,6 +146,12 @@
 <br>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/LineLuLan/LineLuLan/main/assets/kafka_footer.gif" width="100%" alt="Kafka — connection closed" />
+</div>
+
+<br>
+
+<div align="center">
 
 > *"Every shooting star is a commit pushed into the void."*
 
