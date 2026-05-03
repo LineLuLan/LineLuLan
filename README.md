@@ -86,9 +86,9 @@
 <h3 align="center">[ ／／ T E L E M E T R Y _ F E E D ／／ ]</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.hackclub.dev/api?username=LineLuLan&amp;theme=tokyonight&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=LineLuLan&amp;theme=tokyonight&amp;hide_border=true" height="150" alt="Streak Stats" />
-  <img src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=LineLuLan&amp;theme=tokyonight&amp;hide_border=true&amp;layout=compact" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=LineLuLan&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;bg_color=1a0d2e&amp;title_color=ff4ecd&amp;text_color=cbb8e6&amp;icon_color=a855f7&amp;ring_color=ff4ecd" height="150" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=LineLuLan&amp;hide_border=true&amp;background=1a0d2e&amp;ring=ff4ecd&amp;fire=ff6b9d&amp;currStreakLabel=ff4ecd&amp;sideNums=cbb8e6&amp;sideLabels=cbb8e6&amp;dates=a855f7&amp;currStreakNum=f5d6e8&amp;stroke=7d2554" height="150" alt="Streak Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LineLuLan&amp;hide_border=true&amp;layout=compact&amp;bg_color=1a0d2e&amp;title_color=ff4ecd&amp;text_color=cbb8e6" height="150" alt="Top Languages" />
 </div>
 
 <br>
