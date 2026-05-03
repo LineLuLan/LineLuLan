@@ -1,32 +1,28 @@
 <div align="center">
 
-<!--
-  Avatar:
-  1) Drop your pixel-art Kafka.png into  assets/kafka.png  in this repo.
-  2) Commit + push. GitHub will render the image below from the raw URL.
-  Note: GitHub strips inline CSS and JS event handlers, so styling/fallback
-  is intentionally minimal — the image alone carries the look.
--->
-<img src="https://raw.githubusercontent.com/LineLuLan/LineLuLan/main/assets/kafka.png" width="128" alt="Kafka">
+<!-- ========== ANIMATED PIXEL-ART BANNER ========== -->
+<img src="https://raw.githubusercontent.com/LineLuLan/LineLuLan/main/shooting_stars_banner.svg" width="100%" alt="midnight cyberpunk shooting-stars banner">
 
-# *"Listen to me..."*
+<!-- ========== AVATAR ========== -->
+<img src="https://raw.githubusercontent.com/LineLuLan/LineLuLan/main/assets/kafka.png" width="150" style="border-radius: 16px;" alt="Kafka pixel-art avatar">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=2600&pause=900&color=A855F7&center=true&vCenter=true&width=560&lines=Initiating+System+Fate...;Weaving+Data+Pipelines...;Architecting+AI+Agents...;Replacing+Manual+Destinies...;Tr%E1%BA%A7n+Nam+Anh+%7C+Data+Analyst)](https://git.io/typing-svg)
-
-*"Every variable, every commit, every quiet bug — all converging toward an outcome already written."*
-
----
+# *— a quiet terminal under a neon sky —*
 
 </div>
 
-## ◇ identity
+> 💬 **`[ System ]`** :: A wandering star compiled into your timeline. You've reached the lofi mainframe of **Trần Nam Anh** — *Teaching Assistant* by daylight, *Deputy Head of GDGoC HCMIU* by twilight, *AI / ML Researcher* when the constellations align. *Press any key to continue…*
+
+<br>
+
+## ◇ identity_log
 
 ```yaml
 [ SYSTEM LOG INITIALIZED ]
 > entity_id    : Trần Nam Anh
-> designation  : Data Analyst // AI Agent Architect
-> affiliation  : GDGoC HCMIU — Vice President
-> directive    : Replace manual workflows with autonomous data systems
+> designation  : Teaching Assistant // AI / ML Researcher
+> affiliation  : GDGoC HCMIU — Deputy Head
+> research     : Agentic Data Workflows · DABM (Differentiable Agent-Based Modeling) · Complex Simulations
+> directive    : Compile destiny from causal chains · render UI like poetry
 > status       : Online · Observing · Optimizing
 [ END LOG ]
 ```
@@ -37,13 +33,34 @@
 
 <div align="center">
 
-**`[ CORE / ML / DATA ]`**<br>
-[![Core Stack](https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,sklearn,mysql&theme=dark)](https://skillicons.dev)
-
-**`[ ARCHITECTURE / TOOLS ]`**<br>
-[![Tooling Stack](https://skillicons.dev/icons?i=vscode,bash,git,github,docker,gcp&theme=dark)](https://skillicons.dev)
+![Python](https://img.shields.io/badge/Python-1a0d2e?style=for-the-badge&logo=python&logoColor=ff4ecd)
+![PyTorch](https://img.shields.io/badge/PyTorch-1a0d2e?style=for-the-badge&logo=pytorch&logoColor=ff6b9d)
+![Next.js](https://img.shields.io/badge/Next.js-1a0d2e?style=for-the-badge&logo=nextdotjs&logoColor=f5d6e8)
+![Tailwind](https://img.shields.io/badge/Tailwind-1a0d2e?style=for-the-badge&logo=tailwindcss&logoColor=a855f7)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-1a0d2e?style=for-the-badge&logo=framer&logoColor=ff4ecd)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-1a0d2e?style=for-the-badge&logo=anthropic&logoColor=ff6b9d)
+![GitHub](https://img.shields.io/badge/GitHub-1a0d2e?style=for-the-badge&logo=github&logoColor=f5d6e8)
 
 </div>
+
+<br>
+
+## ◇ active_quests
+
+> **`QUEST_01 :: Panic Hub`** — *🔭 Causal Chain Simulator*<br>
+> *Class:* Agentic Simulation & Trust Telemetry<br>
+> *Objective:* Forging complex causal-chain logic and trust-metric simulations — modelling how panic propagates through synthetic societies of decision-making agents.<br>
+> *State:* `running · telemetry nominal`
+
+> **`QUEST_02 :: Educata`** — *🎓 End-to-End Education Platform*<br>
+> *Class:* Full-Stack Architecture<br>
+> *Objective:* Architecting an end-to-end learning ecosystem — content pipeline, classroom UX, analytics, and agentic tutoring under one cohesive engine.<br>
+> *State:* `compiling · scaffolding the cathedral`
+
+> **`QUEST_03 :: ForPrincess`** — *🌸 Aesthetic UI Application*<br>
+> *Class:* Personalized Frontend Craft<br>
+> *Objective:* Crafting a highly personalized, aesthetic UI experience where every transition feels like petals falling — Next.js × Tailwind × Framer Motion at full bloom.<br>
+> *State:* `polishing · in soft focus`
 
 <br>
 
@@ -51,40 +68,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LineLuLan&show_icons=true&hide_border=true&bg_color=0D0814&title_color=a855f7&text_color=cbb8e6&icon_color=ff4ecd&theme=radical" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=LineLuLan&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d0820&title_color=ff4ecd&text_color=cbb8e6&icon_color=a855f7" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LineLuLan&hide_border=true&background=0D0814&ring=a855f7&fire=ff4ecd&currStreakLabel=a855f7&sideNums=cbb8e6&sideLabels=cbb8e6&dates=8a7aa8&currStreakNum=ff4ecd&stroke=3a1c71" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LineLuLan&hide_border=true&background=0d0820&ring=ff4ecd&fire=ff6b9d&currStreakLabel=ff4ecd&sideNums=cbb8e6&sideLabels=cbb8e6&dates=8a7aa8&currStreakNum=ff6b9d&stroke=a855f7" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LineLuLan&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d0820&title_color=ff4ecd&text_color=cbb8e6" alt="Top Languages" />
 
 </div>
-
-<br>
-
-## ◇ active_missions
-
-> **`MISSION_01 :: Panic Hub`**<br>
-> *Class:* Agentic Simulation & Analysis<br>
-> *Objective:* Engineering simulation-based agent ecosystems. Building post-mortem evaluators that parse causal chain logs and leader-psychology matrices.<br>
-> *State:* `running · telemetry nominal`
-
-> **`MISSION_02 :: [CLASSIFIED]`**<br>
-> *Class:* Autonomous Analytics Replacement<br>
-> *Objective:* Dissolving manual reporting cadences into self-running pipelines that brief themselves.<br>
-> *State:* `compiling · access restricted`
-
-> **`MISSION_03 :: [PENDING]`**<br>
-> *Class:* Observability Fabric<br>
-> *Objective:* A live dashboard layer where every metric is an oracle and every chart is a question already answered.<br>
-> *State:* `awaiting cosmic alignment`
-
-> **`MISSION_04 :: [INCUBATING]`**<br>
-> *Class:* AI Agent Orchestration<br>
-> *Objective:* Coordinating tool-using agents with memory, planning, and quiet refusal — so destiny can be delegated.<br>
-> *State:* `seedling · do not disturb`
-
-> **`MISSION_05 :: [SEALED]`**<br>
-> *Class:* `???`<br>
-> *Objective:* `// awaiting fate's instruction`<br>
-> *State:* `dormant · will wake when called`
 
 <br>
 
@@ -93,9 +83,9 @@
 ```json
 {
   "prediction_engine": "Active",
-  "current_focus": "Differentiable Agent-Based Models (DABM) and agentic data workflows",
-  "next_cycle_forecast": "Manual analytics cadence will collapse into autonomous loops before the next cycle.",
-  "cosmic_quote": "What looks like chaos is just a pattern you haven't queried yet.",
+  "current_focus": "Differentiable Agent-Based Models · agentic data workflows · aesthetic UI",
+  "next_cycle": "Manual analytics will collapse into autonomous loops — and the UI will whisper in pastel.",
+  "cosmic_quote": "The thread of fate is just data waiting to be parsed.",
   "uncertainty_index": 0.07
 }
 ```
@@ -104,7 +94,7 @@
 
 <div align="center">
 
-> *"The thread of fate is just data waiting to be parsed."*
+> *"Every shooting star is a commit pushed into the void."*
 
 `// connection closed by stellaris`
 
