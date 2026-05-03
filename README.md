@@ -3,10 +3,12 @@
 <!-- ========== ANIMATED PIXEL-ART BANNER ========== -->
 <img src="https://raw.githubusercontent.com/LineLuLan/LineLuLan/main/shooting_stars_banner.svg" width="100%" alt="midnight cyberpunk shooting-stars banner">
 
-<!-- ========== AVATAR (animated) ========== -->
-<img src="https://raw.githubusercontent.com/LineLuLan/LineLuLan/main/assets/kafka.gif" width="150" style="border-radius: 50%;" alt="Kafka Kuru Kuru" />
+<!-- ========== AVATAR (animated, clickable) ========== -->
+<a href="https://github.com/LineLuLan">
+  <img src="https://raw.githubusercontent.com/LineLuLan/LineLuLan/main/assets/kafka.gif" width="150" style="border-radius: 50%;" alt="Kafka Kuru Kuru — click to visit profile" />
+</a>
 
-# *— a quiet terminal under a neon sky —*
+# *— Chill in coding, feel in styling —*
 
 </div>
 
@@ -84,9 +86,9 @@
 <h3 align="center">[ ／／ T E L E M E T R Y _ F E E D ／／ ]</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LineLuLan&amp;theme=tokyonight&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.hackclub.dev/api?username=LineLuLan&amp;theme=tokyonight&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" height="150" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=LineLuLan&amp;theme=tokyonight&amp;hide_border=true" height="150" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LineLuLan&amp;theme=tokyonight&amp;hide_border=true&amp;layout=compact" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=LineLuLan&amp;theme=tokyonight&amp;hide_border=true&amp;layout=compact" height="150" alt="Top Languages" />
 </div>
 
 <br>
@@ -146,7 +148,9 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LineLuLan/LineLuLan/main/assets/kafka_footer.gif" width="100%" alt="Kafka — connection closed" />
+  <a href="https://github.com/LineLuLan/LineLuLan">
+    <img src="https://raw.githubusercontent.com/LineLuLan/LineLuLan/main/assets/kafka_footer.gif" width="100%" alt="Kafka — click to revisit the void" />
+  </a>
 </div>
 
 <br>
