@@ -69,9 +69,9 @@
 <h3 align="center">[ ／／ T E L E M E T R Y _ F E E D ／／ ]</h3>
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=LineLuLan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="150" src="https://streak-stats.demolab.com?user=LineLuLan&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LineLuLan&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=LineLuLan&theme=radical&show_icons=true&hide_border=true&count_private=true&bg_color=1a0d2e&title_color=ff4ecd&text_color=cbb8e6&icon_color=a855f7&ring_color=ff4ecd" alt="GitHub Stats" />
+  <img height="150" src="https://streak-stats.demolab.com?user=LineLuLan&theme=radical&hide_border=true&background=1a0d2e&ring=ff4ecd&fire=ff6b9d&currStreakLabel=ff4ecd&sideNums=cbb8e6&sideLabels=cbb8e6&dates=a855f7&currStreakNum=f5d6e8&stroke=7d2554" alt="Streak Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LineLuLan&theme=radical&hide_border=true&layout=compact&bg_color=1a0d2e&title_color=ff4ecd&text_color=cbb8e6" alt="Top Languages" />
 </div>
 
 <br>
