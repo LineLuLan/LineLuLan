@@ -1,0 +1,150 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 140" shape-rendering="crispEdges" role="img" aria-label="Portfolio — linelulan.vercel.app">
+  <defs>
+    <filter id="neonPink" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="violetGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1.4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- ==== Background card ==== -->
+  <rect x="2" y="2" width="596" height="136" rx="8" fill="#1a0d2e"/>
+
+  <!-- Inner violet hairline border -->
+  <rect x="8" y="8" width="584" height="124" rx="5" fill="none" stroke="#a855f7" stroke-width="1" stroke-opacity="0.55"/>
+
+  <!-- ==== Subtle CRT scanlines ==== -->
+  <g stroke="#ff4ecd" stroke-opacity="0.05" stroke-width="1">
+    <line x1="10" y1="38"  x2="590" y2="38"/>
+    <line x1="10" y1="70"  x2="590" y2="70"/>
+    <line x1="10" y1="102" x2="590" y2="102"/>
+  </g>
+
+  <!-- ==== Corner pixel decorations (L-shape, neon pink) ==== -->
+  <!-- top-left -->
+  <g fill="#ff6b9d">
+    <rect x="14" y="14" width="4" height="4"/>
+    <rect x="20" y="14" width="4" height="4"/>
+    <rect x="14" y="20" width="4" height="4"/>
+  </g>
+  <!-- top-right -->
+  <g fill="#ff6b9d">
+    <rect x="576" y="14" width="4" height="4"/>
+    <rect x="582" y="14" width="4" height="4"/>
+    <rect x="582" y="20" width="4" height="4"/>
+  </g>
+  <!-- bottom-left -->
+  <g fill="#ff6b9d">
+    <rect x="14" y="122" width="4" height="4"/>
+    <rect x="20" y="122" width="4" height="4"/>
+    <rect x="14" y="116" width="4" height="4"/>
+  </g>
+  <!-- bottom-right -->
+  <g fill="#ff6b9d">
+    <rect x="576" y="122" width="4" height="4"/>
+    <rect x="582" y="122" width="4" height="4"/>
+    <rect x="582" y="116" width="4" height="4"/>
+  </g>
+
+  <!-- ==== Pixel twinkling stars (5-pixel + shape) — LEFT ==== -->
+  <g fill="#ff4ecd" filter="url(#neonPink)">
+    <g>
+      <rect x="60" y="44" width="3" height="3"/>
+      <rect x="57" y="47" width="3" height="3"/>
+      <rect x="60" y="47" width="3" height="3"/>
+      <rect x="63" y="47" width="3" height="3"/>
+      <rect x="60" y="50" width="3" height="3"/>
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="1.8s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <rect x="92" y="78" width="3" height="3"/>
+      <rect x="89" y="81" width="3" height="3"/>
+      <rect x="92" y="81" width="3" height="3"/>
+      <rect x="95" y="81" width="3" height="3"/>
+      <rect x="92" y="84" width="3" height="3"/>
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="2.2s" begin="0.5s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <rect x="38" y="95" width="3" height="3"/>
+      <rect x="35" y="98" width="3" height="3"/>
+      <rect x="38" y="98" width="3" height="3"/>
+      <rect x="41" y="98" width="3" height="3"/>
+      <rect x="38" y="101" width="3" height="3"/>
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="1.5s" begin="1s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <!-- ==== Pixel twinkling stars — RIGHT ==== -->
+  <g fill="#ff4ecd" filter="url(#neonPink)">
+    <g>
+      <rect x="540" y="44" width="3" height="3"/>
+      <rect x="537" y="47" width="3" height="3"/>
+      <rect x="540" y="47" width="3" height="3"/>
+      <rect x="543" y="47" width="3" height="3"/>
+      <rect x="540" y="50" width="3" height="3"/>
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="2s" begin="0.3s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <rect x="505" y="80" width="3" height="3"/>
+      <rect x="502" y="83" width="3" height="3"/>
+      <rect x="505" y="83" width="3" height="3"/>
+      <rect x="508" y="83" width="3" height="3"/>
+      <rect x="505" y="86" width="3" height="3"/>
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="1.7s" begin="0.8s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <rect x="555" y="98" width="3" height="3"/>
+      <rect x="552" y="101" width="3" height="3"/>
+      <rect x="555" y="101" width="3" height="3"/>
+      <rect x="558" y="101" width="3" height="3"/>
+      <rect x="555" y="104" width="3" height="3"/>
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="2.4s" begin="1.2s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <!-- ==== Pixel arrow chevrons ▄▄▄ flanking the title ==== -->
+  <g fill="#ff4ecd" filter="url(#neonPink)">
+    <rect x="125" y="62" width="6" height="6"/>
+    <rect x="134" y="62" width="6" height="6"/>
+    <rect x="143" y="62" width="6" height="6"/>
+  </g>
+  <g fill="#ff4ecd" filter="url(#neonPink)">
+    <rect x="451" y="62" width="6" height="6"/>
+    <rect x="460" y="62" width="6" height="6"/>
+    <rect x="469" y="62" width="6" height="6"/>
+  </g>
+
+  <!-- ==== Main neon title ==== -->
+  <text x="300" y="76"
+        font-family="'Courier New', 'Consolas', monospace"
+        font-size="30"
+        font-weight="bold"
+        text-anchor="middle"
+        fill="#f5d6e8"
+        filter="url(#neonPink)"
+        letter-spacing="4">PORTFOLIO</text>
+
+  <!-- ==== Sub text — URL ==== -->
+  <text x="300" y="105"
+        font-family="'Courier New', 'Consolas', monospace"
+        font-size="13"
+        text-anchor="middle"
+        fill="#cbb8e6"
+        filter="url(#violetGlow)"
+        letter-spacing="2">★  linelulan.vercel.app  ★</text>
+
+  <!-- ==== Pulsing outer neon-pink border (drawn last so it sits on top) ==== -->
+  <rect x="2" y="2" width="596" height="136" rx="8" fill="none" stroke="#ff4ecd" stroke-width="2">
+    <animate attributeName="stroke-opacity" values="0.55;1;0.55" dur="2.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>

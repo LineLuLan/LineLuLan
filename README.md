@@ -10,6 +10,10 @@
 
 # *— Chill in coding, feel in styling —*
 
+<a href="https://linelulan.vercel.app/">
+  <img src="https://raw.githubusercontent.com/LineLuLan/LineLuLan/main/assets/portfolio_sign.svg" width="420" alt="Portfolio — linelulan.vercel.app — click to enter the void" />
+</a>
+
 </div>
 
 > 💬 **`[ System ]`** :: A wandering star compiled into your timeline. You've reached the lofi mainframe of **Trần Nam Anh** — *Teaching Assistant* by daylight, *Deputy Head of GDGoC HCMIU* by twilight, *AI / ML Researcher* when the constellations align. *Press any key to continue…*
