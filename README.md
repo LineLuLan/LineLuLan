@@ -143,14 +143,6 @@
 
 <br>
 
-<h3 align="center">[ ／／ C O N T R I B _ S K Y L I N E ／／ ]</h3>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/LineLuLan/LineLuLan/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution skyline, regenerated daily" />
-</div>
-
-<br>
-
 <h3 align="center">[ ／／ C O M M I T _ S E R P E N T ／／ ]</h3>
 
 <div align="center">
