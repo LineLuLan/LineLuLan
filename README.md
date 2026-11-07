@@ -131,11 +131,14 @@
 
 <br>
 
-<h3 align="center">[ ／／ T E L E M E T R Y _ F E E D ／／ ]</h3>
+<h3 align="center">[ ／／ G I T H U B _ A C T I V I T Y ／／ ]</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=LineLuLan&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;bg_color=1a0d2e&amp;title_color=ff4ecd&amp;text_color=cbb8e6&amp;icon_color=a855f7&amp;ring_color=ff4ecd" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LineLuLan&amp;hide_border=true&amp;layout=compact&amp;bg_color=1a0d2e&amp;title_color=ff4ecd&amp;text_color=cbb8e6" height="150" alt="Top Languages" />
+  <a href="https://raw.githubusercontent.com/LineLuLan/LineLuLan/main/assets/github-dashboard-static.svg">
+    <img src="https://raw.githubusercontent.com/LineLuLan/LineLuLan/main/assets/github-dashboard.svg" width="100%" alt="Line's GitHub activity: contributions, commits, pull requests, active days, contribution calendar, monthly rhythm, public repository languages, and weekday activity">
+  </a>
+  <br>
+  <sub>Refreshed daily · <a href="https://raw.githubusercontent.com/LineLuLan/LineLuLan/main/assets/github-dashboard-static.svg">View the still dashboard</a></sub>
 </div>
 
 <br>

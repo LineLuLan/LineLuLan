@@ -1,0 +1,46 @@
+name: Generate GitHub Activity Dashboard
+
+on:
+  schedule:
+    - cron: "0 20 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-dashboard
+  cancel-in-progress: true
+
+jobs:
+  build:
+    name: Generate GitHub activity SVGs
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Build the dashboard
+        run: node scripts/build-dashboard.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit and push the generated SVGs
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -- assets/github-dashboard.svg assets/github-dashboard-static.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(dashboard): refresh GitHub activity SVG"
+            # The skyline workflow also writes at 20:00 UTC. Rebase on its
+            # changes and retry if another writer advances the branch again.
+            for attempt in 1 2 3; do
+              git pull --rebase origin "$GITHUB_REF_NAME"
+              if git push origin "HEAD:$GITHUB_REF_NAME"; then
+                exit 0
+              fi
+            done
+            echo "Dashboard push failed after three attempts." >&2
+            exit 1
+          fi
