@@ -29,7 +29,7 @@
 <table>
   <tr><td>◆ <b>CLASS</b></td><td><code>::</code></td><td><code>Data Engineer</code> @ <b>Twohearts Technologies</b> &nbsp;·&nbsp; KFC F&amp;B Track winner</td></tr>
   <tr><td>◆ <b>RESEARCH</b></td><td><code>::</code></td><td><code>Lead AI Researcher</code> · dengue shock prediction @ <b>HTD HCMC × IU</b></td></tr>
-  <tr><td>◆ <b>GUILD</b></td><td><code>::</code></td><td><code>Co-founder</code> @ <b>100B Studio</b> &nbsp;|&nbsp; <code>Advisor</code> @ <b>GDGoC HCMIU</b></td></tr>
+  <tr><td>◆ <b>GUILD</b></td><td><code>::</code></td><td><code>Co-founder</code> @ <b>100B Studio</b> &nbsp;|&nbsp; <code>Advisor</code> @ <a href="https://www.facebook.com/gdgoc.hcmiu"><b>GDGoC HCMIU</b></a></td></tr>
   <tr><td>◆ <b>ACADEMY</b></td><td><code>::</code></td><td><code>BSc Data Science</code> @ <b>International University, VNU-HCM</b> · 2023 – 2028</td></tr>
   <tr><td>◆ <b>BASE</b></td><td><code>::</code></td><td><code>Ho Chi Minh City</code> · GMT+7 · open to AI / ML &amp; data roles</td></tr>
 </table>
